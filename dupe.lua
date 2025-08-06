@@ -1,4 +1,4 @@
--- Fake Pet Dupe Script (Client-Side Only)
+
 
 local fakePetName = "Super Dog"
 local dupeAmount = 5
